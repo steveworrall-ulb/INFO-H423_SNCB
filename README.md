@@ -5,5 +5,7 @@ ASSONFACK DEUMANI Patrice Miguelle
 KASHAEVA Gulnur    
 LECLERCQ Florian     
 WORRALL Stephen     
-
-
+  
+  
+  
+included documentation and final presentation slides from 20/12/2023
